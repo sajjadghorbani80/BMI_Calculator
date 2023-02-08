@@ -14,8 +14,3 @@ button.addEventListener('click', function(){
     });
 
 })
-
-
-JSON.stringify({ "height": document.getElementById("height-input").value,
-        "weight": document.getElementById("weight-input").value,
-    })
