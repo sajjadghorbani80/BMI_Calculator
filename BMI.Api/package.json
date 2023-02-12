@@ -9,6 +9,7 @@
   "author": "Sajjad Ghorbani",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "express-validator": "^6.14.3"
   }
 }
